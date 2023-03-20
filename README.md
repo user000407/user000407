@@ -10,6 +10,7 @@
 print('어쩌구 저쩌구...') - 코드형식으로 묶을 내용
 ```
 
+---
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=user000407)](https://github.com/user000407)
 
 
